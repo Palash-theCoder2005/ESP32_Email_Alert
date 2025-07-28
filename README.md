@@ -21,7 +21,7 @@ This project reads temperature and humidity from a DHT11 sensor using an ESP32, 
 | GND       | GND        |
 | DATA      | GPIO 26    |
 
-![Circuit Diagram](https://i.imgur.com/V4K8pVR.png) 
+![Circuit Diagram](https://github.com/Palash-theCoder2005/ESP32_Email_Alert/commit/fb22062fe8272de65d48ec783cd2019b7092145d) 
 
 ---
 
